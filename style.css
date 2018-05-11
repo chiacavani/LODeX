@@ -1,0 +1,26 @@
+body{
+    padding-top: 40px; /*per evitare che il contenuto della pagina finisca sotto la navbar*/
+}
+/* STILE BARRA ALTO */
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 8rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+    height: 50px;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+/* STILE GRIGLIA */
+/*.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 25px;
+}*/
+
